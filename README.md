@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/Felgimon?logo=github&style=for-the-
 ### Badges
 
 <b>GitHub Stats</b>
-<div style= "displayl:flex">
+<div style= "display:flex; flex-flow: collumn wrap; justify-content: center; align-items: center;">
 <a href="http://www.github.com/Felgimon"><img src="https://github-readme-stats.vercel.app/api?username=Felgimon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Felgimon's GitHub stats" /></a>
 
 <a href="https://github.com/Felgimon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felgimon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
