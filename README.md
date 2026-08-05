@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 In process of becoming an expert programmer in multiple languages
 ---------------------------------------------
 
-Since the beggining of 2024, i have been learning how to code in JS, and learning the strucuture of styling a web with HTML and CSS. Day after day i am constantly discovering new things and opportunities of knowing a bit more about the programming world, while I look forward to experience different concepts along the journey.
-
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [felipeferraridoval@gmail.com](mailto:felipeferraridoval@gmail.com)
 
