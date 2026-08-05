@@ -7,9 +7,7 @@ In process of becoming an expert programmer in multiple languages
 Since the beggining of 2024, i have been learning how to code in JS, and learning the strucuture of styling a web with HTML and CSS. Day after day i am constantly discovering new things and opportunities of knowing a bit more about the programming world, while I look forward to experience different concepts along the journey.
 
 * 🌍  I'm based in Argentina
-* ✉️  You can contact me at [sunghosts7@gmail.com](mailto:sunghosts7@gmail.com)
-* 🚀  I'm currently working on [Nindō]([http://github.com/3-TIC-ORT/proyecto-3-objetos-perdidos-en-ruinas](https://github.com/Mateo-Drault/Nindo-VideoJuego-Mateo-Drault-Felipe-Doval-Teo-Gonzalez-Pedro-Henriquez))
-* 🧠  I'm currently learning C#, Unity, Blender.
+* ✉️  You can contact me at [felipeferraridoval@gmail.com](mailto:felipeferraridoval@gmail.com)
 
 <a href="https://www.github.com/Felgimon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Felgimon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
