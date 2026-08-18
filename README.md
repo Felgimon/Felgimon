@@ -71,4 +71,4 @@ Fuera del código: básquet, fútbol y bastante más tiempo del recomendable mir
 
 ---
 
-📫 [LinkedIn](https://linkedin.com/in/) · [felipedoval.com](https://felipedoval.com)
+📫 [LinkedIn] (https://www.linkedin.com/in/felipe-daniel-doval-ferrari-68977b3a5/?skipRedirect=true) · [felipedoval.com](https://felipedoval.com)
