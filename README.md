@@ -2,15 +2,15 @@
 
 Estudio en ORT Belgrano, especialización TIC, en Buenos Aires. En 2027 arranco Ingeniería Informática en el ITBA.
 
-Casi todo lo que construí termina siendo alguna variante de la misma idea: agarrar datos que están desordenados en algún lado y convertirlos en algo que una persona pueda usar para decidir. A veces eso es un SaaS, a veces un modelo de predicción, a veces una app que te dice si podés manejar.
+Casi todo lo que construí termina siendo alguna variante de la misma idea: agarrar datos que están desordenados en algún lado y convertirlos en algo que una persona pueda usar para decidir. A veces eso es un SaaS, a veces un modelo de predicción, a veces un sitio que tiene que explicar en treinta segundos a qué se dedica una empresa.
 
 ---
 
 ## En qué estoy trabajando
 
-**[Superlum](https://github.com/)** — Workspace operativo B2B que desarrollo desde abril para Taquion, una agencia de growth. Empezó como un reemplazo de Notion y terminó siendo bastante más: permisos granulares a nivel de fila y columna, portal de clientes y automatizaciones de Instagram. Modelé el producto sobre la estructura interna real de la agencia y hoy está en producción.
+**Superlum (https://github.com/taquionrs/superlum-prod)** — Workspace operativo B2B que desarrollo desde abril para Taquion, una agencia de growth. Empezó como un reemplazo de Notion y terminó siendo bastante más: permisos granulares a nivel de fila y columna, portal de clientes y automatizaciones de Instagram. Modelé el producto sobre la estructura interna real de la agencia y hoy está en producción.
 
-**Horus AI** — Detección de eventos críticos sobre feeds de cámaras: caídas, incendios y agresiones. Por ahora estoy más del lado del producto y la identidad de marca que del modelo.
+**[taquion.com.ar](https://taquion.com.ar)** — Sitio web de la agencia. Trabajé la landing y la explicación del servicio junto al equipo de diseño, con el foco puesto en que se entienda rápido qué venden y cómo funciona.
 
 **FutbolVision** — Predicción de métricas de partidos con XGBoost sobre datos de Sportmonks: goles, precisión de pases, índice de agresividad y duración efectiva. La intersección de dos cosas que me gustan bastante, que son el fútbol y meterle números a discusiones que normalmente se resuelven a los gritos.
 
@@ -56,9 +56,7 @@ Casi todo lo que construí termina siendo alguna variante de la misma idea: agar
 | Proyecto | De qué se trata |
 |---|---|
 | **CourtSide** | Tracker de NBA en Astro, con endpoints propios que hacen de proxy contra NBA.com |
-| **AEGIS** | App de escritorio para detección de deepfakes, en Python y C++ |
 | **PC Builder** | Armador de PCs con validación de compatibilidad entre componentes |
-| **Calculadora de alcoholemia** | Fórmula de Widmark, límites legales argentinos y gráfico de curva en SVG |
 | **[felipedoval.com](https://felipedoval.com)** | Mi portfolio |
 
 ---
