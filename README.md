@@ -1,31 +1,76 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felgimon
-================================================================================================================================
+# Felipe Doval Ferrari
 
-In process of becoming an expert programmer in multiple languages
----------------------------------------------
+Estudio en ORT Belgrano, especialización TIC, en Buenos Aires. En 2027 arranco Ingeniería Informática en el ITBA.
 
-* 🌍  I'm based in Argentina
-* ✉️  You can contact me at [felipeferraridoval@gmail.com](mailto:felipeferraridoval@gmail.com)
+Casi todo lo que construí termina siendo alguna variante de la misma idea: agarrar datos que están desordenados en algún lado y convertirlos en algo que una persona pueda usar para decidir. A veces eso es un SaaS, a veces un modelo de predicción, a veces una app que te dice si podés manejar.
 
-<a href="https://www.github.com/Felgimon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Felgimon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+## En qué estoy trabajando
 
+**[Superlum](https://github.com/)** — Workspace operativo B2B que desarrollo desde abril para Taquion, una agencia de growth. Empezó como un reemplazo de Notion y terminó siendo bastante más: permisos granulares a nivel de fila y columna, portal de clientes y automatizaciones de Instagram. Modelé el producto sobre la estructura interna real de la agencia y hoy está en producción.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+**Horus AI** — Detección de eventos críticos sobre feeds de cámaras: caídas, incendios y agresiones. Por ahora estoy más del lado del producto y la identidad de marca que del modelo.
 
+**FutbolVision** — Predicción de métricas de partidos con XGBoost sobre datos de Sportmonks: goles, precisión de pases, índice de agresividad y duración efectiva. La intersección de dos cosas que me gustan bastante, que son el fútbol y meterle números a discusiones que normalmente se resuelven a los gritos.
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Felgimon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## Stack
 
-### Badges
+**Lenguajes**
 
-<b>GitHub Stats</b>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
-<a href="http://www.github.com/Felgimon"><img src="https://github-readme-stats.vercel.app/api?username=Felgimon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Felgimon's GitHub stats" /></a>
+**Frontend**
 
-<a href="https://github.com/Felgimon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felgimon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend y datos**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+---
+
+## Otros proyectos
+
+| Proyecto | De qué se trata |
+|---|---|
+| **CourtSide** | Tracker de NBA en Astro, con endpoints propios que hacen de proxy contra NBA.com |
+| **AEGIS** | App de escritorio para detección de deepfakes, en Python y C++ |
+| **PC Builder** | Armador de PCs con validación de compatibilidad entre componentes |
+| **Calculadora de alcoholemia** | Fórmula de Widmark, límites legales argentinos y gráfico de curva en SVG |
+| **[felipedoval.com](https://felipedoval.com)** | Mi portfolio |
+
+---
+
+## Un poco de contexto
+
+Antes de Superlum hice una pasantía en Taquion armando automatizaciones con n8n sobre Notion, que es literalmente de donde salió la idea del producto: ver todos los días dónde se rompía la herramienta que usaban.
+
+Presenté Superlum en TIC Experience y participé en NAVES (ITBA) y en los Premios Sadosky.
+
+Fuera del código: básquet, fútbol y bastante más tiempo del recomendable mirando gráficos de CEDEARs.
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/) · [felipedoval.com](https://felipedoval.com)
