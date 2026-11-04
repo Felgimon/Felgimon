@@ -8,11 +8,11 @@ Casi todo lo que construí termina siendo alguna variante de la misma idea: agar
 
 ## En qué estoy trabajando
 
-**Superlum (https://github.com/taquionrs/superlum-prod)** — Workspace operativo B2B que desarrollo desde abril para Taquion, una agencia de growth. Empezó como un reemplazo de Notion y terminó siendo bastante más: permisos granulares a nivel de fila y columna, portal de clientes y automatizaciones de Instagram. Modelé el producto sobre la estructura interna real de la agencia y hoy está en producción.
+**[Superlum](https://felipedoval.com/proyectos/superlum)** — Workspace operativo B2B que desarrollo desde abril para Taquion, una agencia de growth. Empezó como un reemplazo de Notion y terminó siendo bastante más: permisos granulares a nivel de fila y columna, portal de clientes y automatizaciones de Instagram. Modelé el producto sobre la estructura interna real de la agencia y hoy está en producción.
 
 **[taquion.com.ar](https://taquion.com.ar)** — Sitio web de la agencia. Trabajé la landing y la explicación del servicio junto al equipo de diseño, con el foco puesto en que se entienda rápido qué venden y cómo funciona.
 
-**FutbolVision** — Predicción de métricas de partidos con XGBoost sobre datos de Sportmonks: goles, precisión de pases, índice de agresividad y duración efectiva. La intersección de dos cosas que me gustan bastante, que son el fútbol y meterle números a discusiones que normalmente se resuelven a los gritos.
+**[FutbolVision](https://github.com/Felgimon/FutbolVision)** — Predicción de métricas de partidos con XGBoost sobre datos de Sportmonks: goles, precisión de pases, índice de agresividad y duración efectiva. La intersección de dos cosas que me gustan bastante, que son el fútbol y meterle números a discusiones que normalmente se resuelven a los gritos.
 
 ---
 
@@ -55,8 +55,11 @@ Casi todo lo que construí termina siendo alguna variante de la misma idea: agar
 
 | Proyecto | De qué se trata |
 |---|---|
-| **CourtSide** | Tracker de NBA en Astro, con endpoints propios que hacen de proxy contra NBA.com |
-| **PC Builder** | Armador de PCs con validación de compatibilidad entre componentes |
+| **[CourtSide](https://github.com/Felgimon/TP1_Front)** | Tracker de NBA en Astro, con endpoints propios que hacen de proxy contra NBA.com |
+| **[PC Builder](https://github.com/Felgimon/TP2-ivo)** | Armador de PCs con validación de compatibilidad entre componentes |
+| **[Buscaminas](https://github.com/Felgimon/Buscaminas)** | El clásico Buscaminas, hecho desde cero en C++ para jugarse en la terminal, sin librerías externas |
+| **[LOST](https://github.com/3-TIC-ORT/proyecto-3-L.O.S.T.)** | Plataforma de tracking de objetos, entregada con un equipo chico en menos de 6 meses |
+| **[Nindo](https://github.com/Mateo-Drault/Nindo-VideoJuego-Mateo-Drault-Felipe-Doval-Teo-Gonzalez-Pedro-Henriquez)** | Videojuego en Python, desarrollado con un equipo chico en menos de 6 meses |
 | **[felipedoval.com](https://felipedoval.com)** | Mi portfolio |
 
 ---
@@ -65,7 +68,7 @@ Casi todo lo que construí termina siendo alguna variante de la misma idea: agar
 
 Antes de Superlum hice una pasantía en Taquion armando automatizaciones con n8n sobre Notion, que es literalmente de donde salió la idea del producto: ver todos los días dónde se rompía la herramienta que usaban.
 
-Presenté Superlum en TIC Experience y participé en NAVES (ITBA) y en los Premios Sadosky.
+Presenté Superlum en TIC Experience, con cobertura de TN Tecnología, y di una charla en TICxTED 2026.
 
 Fuera del código: básquet, fútbol y bastante más tiempo del recomendable mirando gráficos de CEDEARs.
 
